@@ -9,7 +9,7 @@ Waterloo campus.
 
 ## Play
 
-[Play Deadline Dash](https://ripliquid.github.io/deadline-dash/)
+[Play Deadline Dash](https://ripliquid.github.io/Deadline-Dash/)
 
 ## Features
 
